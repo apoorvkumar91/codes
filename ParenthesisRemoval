@@ -1,0 +1,6 @@
+ //ParenthesisRemoval
+//store
+countWays = 1
+pos = maxlength
+
+//while iterating from R2L, count # of closing brackets b/w any 2 opening brackets
